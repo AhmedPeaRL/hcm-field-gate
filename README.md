@@ -23,6 +23,8 @@ is not documented.
 If something resonates,
 it does so without permission.
 
+This state is intentional.
+
 ---
 
 ## What is hcm-field-gate?
