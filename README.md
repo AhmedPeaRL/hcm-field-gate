@@ -9,6 +9,20 @@ Its only function:
 to distinguish between what *may appear*
 and what *must remain silent*.
 
+This is not a project list.
+
+Nothing here explains the whole.
+Nothing here guides your reading.
+
+You are free to leave.
+You are free to stay.
+
+What connects these repositories
+is not documented.
+
+If something resonates,
+it does so without permission.
+
 ---
 
 ## What is hcm-field-gate?
